@@ -1,0 +1,14 @@
+body{
+    background: gray;
+    width: 90%;
+    padding-left: 10%;
+}
+
+button.btn.btn-success {
+    margin-top: 25px;
+}
+
+/*.alert.alert-success.openMessage {*/
+/*    width: 86%;*/
+/*    margin-left: 7%;*/
+/*}*/
